@@ -54,7 +54,7 @@ npm run dev
 
 ## Environment Variables
 
-Create a `.env` file inside the backend folder:
+Created a `.env` file inside the backend folder:
 
 ```env
 MONGO_URI=your_mongodb_connection_string
@@ -92,10 +92,6 @@ DELETE /api/notes/:id
 ```http
 GET /api/notes/search?q=keyword
 ```
-
-## Screenshots
-
-Add screenshots here if required.
 
 ## Author
 

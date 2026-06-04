@@ -34,6 +34,14 @@ A full-stack Notes Management application built using React, Node.js, Express, a
 - MongoDB Atlas
 - Mongoose
 
+## Live Demo
+
+Frontend:
+https://notes-management-system-beta.vercel.app/
+
+Backend API:
+https://notes-management-system-rzyz.onrender.com/api/notes
+
 ## Installation
 
 ### Backend

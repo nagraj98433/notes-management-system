@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = "http://localhost:5000/api/notes";
+const API = "https://notes-management-system-rzyz.onrender.com/api/notes";
 
 export const getNotes = () => axios.get(API);
 

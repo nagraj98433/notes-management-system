@@ -93,6 +93,32 @@ DELETE /api/notes/:id
 GET /api/notes/search?q=keyword
 ```
 
+## Screenshots
+
+### Home Page
+
+![Home/Create](./screenshots/home_create.png)
+
+### Edit page
+
+![Edit/Updation](./screenshots/edit_updation.png)
+
+### Notes page
+
+![NotesCards](./screenshots/notes_cards.png)
+
+### Modal Large text Page
+
+![LargeText](./screenshots/large_modal.png)
+
+### Delete page
+
+![Delete](./screenshots/delete.png)
+
+### Search View
+
+![Search](./screenshots/search.png)
+
 ## Author
 
 Nagraj Vade
